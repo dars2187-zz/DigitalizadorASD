@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DARS2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DARS2\\.nuget\\packages"
+    ]
+  }
+}

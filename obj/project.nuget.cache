@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/DYu8jrr8bGfjjt7GHG9muVt6/dLu7y+GL6ViEzcVSD2kSn/iL+ztaWkj0kos3pI3qoSPSde0QCjSjSQLHN3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\DigitalizadorASD\\DigitalizadorASD\\Digitalizador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DARS2\\.nuget\\packages\\dnstech.naps2.wia\\1.0.10\\dnstech.naps2.wia.1.0.10.nupkg.sha512",
+    "C:\\Users\\DARS2\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512",
+    "C:\\Users\\DARS2\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\DARS2\\.nuget\\packages\\ntwain\\3.7.1\\ntwain.3.7.1.nupkg.sha512",
+    "C:\\Users\\DARS2\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\DARS2\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}
